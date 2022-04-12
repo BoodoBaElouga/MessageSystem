@@ -1,1 +1,1 @@
-# MessageSystem
+# MessageSystem (A small JavaFx application)
